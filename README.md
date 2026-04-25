@@ -1,10 +1,12 @@
 # imperial_college_AI_capstone
 Capstone Project for Imperial College Professional Certificate in ML and AI
+
 Section 1: project overview
 The code in this project is submitted as part of a Black-Box Bayesian Optimisation contest. The contest requires entrants to build and optimise eight machine learning models, within a simulated black box environment, that seek to iteratively find the maxima of each of the eight unknown  functions.
 The goal of the project is to get entrants to use Bayesian optimisation techniques to simulate functions where only inputs and outputs are known. The function structures will be unknown until competition completion and entrants must use all the tools at their disposable to simulate these functions as closely as possible with data sets that increase weekly based on submitted inputs and returned outputs.
 This type of competition has real world relevancy in that there are numerous business problems in which the exact mapping between inputs and outputs is unknown and must be discovered for a range of business scenarios such as predictions.
 This type of exercise has real career-enhancing benefits as it allows entrants free reign to obtain a solution by enabling them to work independently as they take decisions to reach their goal. This is particularly useful in career development where working with ambiguity can be a regular occurrence.
+
 Section 2: inputs and outputs
 To simulate each target function, the code expects the following:
 1.	A set of initial input data points for each function. These are provided to all entrants for each function. The points range in size from 2 to 8 dimensions.
