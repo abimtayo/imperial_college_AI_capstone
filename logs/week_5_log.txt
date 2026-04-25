@@ -1,0 +1,75 @@
+function_1 | smooth | DATA_MAX=0.0000
+Next suggestion:
+  Acquisition used : EI
+  Acquisition score: 0.000040
+  Model prediction  : -0.000213
+  Neural Network prediction : [0.00558795]
+  Suggested X      :[0.833521-0.968335
+
+function_2 | rugged | DATA_MAX=0.6112
+Next suggestion:
+  Acquisition used : EI
+  Acquisition score: 0.030180
+  Model prediction  : 0.546742
+  Neural Network prediction : [0.23712537]
+  Suggested X      : 0.667490-0.911767
+
+function_3 | smooth | DATA_MAX=0.0091
+Next suggestion:
+  Acquisition used : EI
+  Acquisition score: 0.011329
+  Model prediction  : -0.009749
+  Neural Network prediction : [-0.08973289]
+  Suggested X      : 0.285986-0.648567-0.523759
+
+function_4 | rugged | DATA_MAX=-0.8758
+Next suggestion:
+  Acquisition used : EI
+  Acquisition score: 0.216029
+  Model prediction  : -0.832914
+  Neural Network prediction : [-0.6407608]
+  Suggested X      : 0.447057-0.520736-0.472001-0.456644
+
+function_5 | rugged | DATA_MAX=2430.6334
+Next suggestion:
+  Acquisition used : EI
+  Acquisition score: 88.589182
+  Model prediction  : 2411.789518
+  Neural Network prediction : [0.35078102]
+  Suggested X      : 0.524124-0.975105-0.970405-0.955600
+
+
+function_6 | rugged | DATA_MAX=-0.3695
+Next suggestion:
+  Acquisition used : EI
+  Acquisition score: 0.051361
+  Model prediction  : -0.384386
+  Neural Network prediction : [0.21349865]
+  Suggested X      : 0.373029-0.387363-0.584905-0.665786-0.055218
+
+
+
+
+
+function_7 | rugged | DATA_MAX=1.8873
+Next suggestion:
+  Acquisition used : EI
+  Acquisition score: 0.059646
+  Model prediction  : 1.850252
+  Neural Network prediction : [0.24926217]
+  Suggested X      : 0.076580-0.374012-0.155689-0.157456-0.374144-0.547713
+
+function_8 | rugged | DATA_MAX=9.8735
+Next suggestion:
+  Acquisition used : EI
+  Acquisition score: 0.125073
+  Model prediction  : 9.864833
+  Neural Network prediction : [0.4324413]
+  Suggested X      : 0.205872-0.129799-0.101868-0.483411-0.931078-0.413462-0.175640-0.169727
+
+
+
+
+
+
+
