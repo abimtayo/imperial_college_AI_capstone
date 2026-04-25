@@ -1,0 +1,73 @@
+function_1 | sharp_peak | DATA_MAX=0.0000, nu =0.5
+Next suggestion:
+  Acquisition used : UCB
+  Acquisition score: 0.005958
+  Model prediction  : -0.000314
+  Suggested X      : 0.078526-0.148941
+
+function_2 | rugged | DATA_MAX=0.6112, nu =20, length_scale (0.05) bounds (0.05,5)
+Next suggestion:
+  Acquisition used : EI
+  Acquisition score: 0.047014
+  Model prediction  : 0.625125
+  Suggested X      : 0.773525-0.943647
+
+function_3 | smooth | DATA_MAX=-0.0348, nu = 10, length_scale(0.5), bounds(0.5,10) , xi = 0.001
+Next suggestion:
+  Acquisition used : EI
+  Acquisition score: 0.130144
+  Model prediction  : 0.096309
+  Suggested X      : 0.506734-0.160878-0.560637
+
+function_4 | rugged | DATA_MAX=-4.0255, nu = 7
+Next suggestion:
+  Acquisition used : EI
+  Acquisition score: 2.583171
+  Model prediction  : -1.434305
+  Suggested X      : 0.493478-0.414878-0.346612-0.432821
+
+function_5 | rugged | DATA_MAX=1088.8596, nu = 10, length_scale(0.5), bounds(0.5,10) , xi = 0.001
+Next suggestion:
+  Acquisition used : EI
+  Acquisition score: 239.737106
+  Model prediction  : 1328.332992
+  Suggested X      : 0.473239-0.827815-0.962217-0.988361
+
+function_6 | rugged | DATA_MAX=-0.7143, nu=7
+Next suggestion:
+  Acquisition used : EI
+  Acquisition score: 0.139462
+  Model prediction  : -0.607085
+  Suggested X      : 0.531562-0.382952-0.454509-0.778627-0.163412
+
+function_7 | smooth | DATA_MAX=1.3650, nu = 10, length_scale(0.5), bounds(0.5,10) , xi = 0.001
+Next suggestion:
+  Acquisition used : EI
+  Acquisition score: 0.068926
+  Model prediction  : 1.376980
+  Suggested X      : 0.065421-0.430005-0.421365-0.065556-0.356714-0.896324
+
+function_8 | rugged | DATA_MAX=9.5985, nu=7
+Next suggestion:
+  Acquisition used : EI
+  Acquisition score: 0.551181
+  Model prediction  : 10.157663
+  Suggested X      : 0.239485-0.401255-0.074346-0.175142-0.623644-0.508797-0.300965-0.564904
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
