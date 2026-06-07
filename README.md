@@ -43,3 +43,7 @@ Currently only Bayesian Optimisation techniques have been used. However, as the 
 Exploitation vs Exploration
 For the time being, a decision is made between exploration and exploitation based on the generated graphs. With some of the visualisations the function(s) decline rapidly to near zero and it’s clear where the next direction of investigation should be. With others its not so obvious and these are taken on a case-by-case basis.
 This method has injected a level of clarity into my approach, and is likely to bear more fruit as more data points are received and a more systematic method of parameter tuning should evolve from this.
+
+Section 4: Links to addtional files
+[Datasheet](data/datasheet.md)
+[Model card](src/model.md)
